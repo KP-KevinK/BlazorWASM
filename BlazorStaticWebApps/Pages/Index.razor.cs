@@ -9,9 +9,11 @@ namespace BlazorStaticWebApps.Pages
         [Inject]
         public IConfiguration Configuration { get; set; }
         string audience;
+        string ktest;
         protected override async Task OnInitializedAsync()
         {
             audience = Configuration.GetValue<string>("Audience");
+            ktest = Configuration.GetValue<string>("Audience");
         }
     }
 }
