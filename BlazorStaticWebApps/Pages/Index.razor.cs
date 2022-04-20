@@ -13,7 +13,7 @@ namespace BlazorStaticWebApps.Pages
         protected override async Task OnInitializedAsync()
         {
             audience = Configuration.GetValue<string>("Audience");
-            ktest = Configuration.GetValue<string>("Audience");
+            ktest = Configuration.GetValue<string>("test");
         }
     }
 }
