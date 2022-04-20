@@ -1158,11 +1158,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\kev_i\\Source\\Repos\\BlazorWASMGH\\BlazorStaticWebApps\\BlazorStaticWebApps.csproj",
+      "projectUniqueName": "C:\\Users\\kev_i\\Source\\Repos\\BlazorWASMGH2\\BlazorStaticWebApps\\BlazorStaticWebApps.csproj",
       "projectName": "BlazorStaticWebApps",
-      "projectPath": "C:\\Users\\kev_i\\Source\\Repos\\BlazorWASMGH\\BlazorStaticWebApps\\BlazorStaticWebApps.csproj",
+      "projectPath": "C:\\Users\\kev_i\\Source\\Repos\\BlazorWASMGH2\\BlazorStaticWebApps\\BlazorStaticWebApps.csproj",
       "packagesPath": "C:\\Users\\kev_i\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\kev_i\\Source\\Repos\\BlazorWASMGH\\BlazorStaticWebApps\\obj\\",
+      "outputPath": "C:\\Users\\kev_i\\Source\\Repos\\BlazorWASMGH2\\BlazorStaticWebApps\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

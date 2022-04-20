@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+cZamfQ5zeYyDfwysWoHBLv2agxI1CtnVGvHwzojZeLDEKYlXUKKDYAh/au75QICUiOJA5bgd23eilvfKB90ag==",
+  "dgSpecHash": "eTDFOjuSmJvexQSwsJElJnjDc4h2Ato+0QFMpBefXDj/aga4aRTK7jpelLWshqiCOZCIY++AY+HZjbi6FBO80Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\kev_i\\Source\\Repos\\BlazorWASMGH\\BlazorStaticWebApps\\BlazorStaticWebApps.csproj",
+  "projectFilePath": "C:\\Users\\kev_i\\source\\repos\\BlazorWASMGH2\\BlazorStaticWebApps\\BlazorStaticWebApps.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\kev_i\\.nuget\\packages\\microsoft.aspnetcore.authorization\\5.0.0\\microsoft.aspnetcore.authorization.5.0.0.nupkg.sha512",
     "C:\\Users\\kev_i\\.nuget\\packages\\microsoft.aspnetcore.components\\5.0.0\\microsoft.aspnetcore.components.5.0.0.nupkg.sha512",
