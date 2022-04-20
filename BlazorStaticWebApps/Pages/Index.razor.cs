@@ -10,10 +10,12 @@ namespace BlazorStaticWebApps.Pages
         public IConfiguration Configuration { get; set; }
         string audience;
         string ktest;
+        string david;
         protected override async Task OnInitializedAsync()
         {
-            audience = Configuration.GetValue<string>("Audience");
-            ktest = Configuration.GetValue<string>("test");
+            audience = Configuration.GetValue<string>("Values:Audience");
+            ktest = Configuration.GetValue<string>("Values:test");
+            david = Configuration.GetValue<string>("Values:david");
         }
     }
 }
